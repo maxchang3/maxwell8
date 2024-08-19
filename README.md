@@ -1,6 +1,6 @@
 # Maxwell8
 
-Yet another TypeScript-based Chip-8 emulator for studying purposes.
+Yet another TypeScript-based Chip-8 emulator, as a learning project.
 
 * [x] Zero Runtime Dependencies.
 * [x] Fully Typed TypeScript.
